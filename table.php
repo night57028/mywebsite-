@@ -13,8 +13,8 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>ปาริตา ทะปา</td>
-        <td>ชมพู่</td>
+        <td>ซงจุงกิ</td>
+        <td>จุงกิ</td>
         <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
         <td>2</td>
