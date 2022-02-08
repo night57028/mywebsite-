@@ -21,4 +21,4 @@
         <td>ปาริตา ทะปา</td>
         <td>ชมพู่</td>
         <td><img src="http://asianwiki.com//images/9/95/Yoon_Joo-Man-1981-p1.jpg" width="130px"></td>
-       
+        <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
