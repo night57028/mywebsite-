@@ -13,10 +13,10 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>kim jisoo</td>
-        <td>jisoo</td>
-        <td><img src="https://i.pinimg.com/originals/c5/0a/46/c50a46f12c99102d113ed344fa6390d0.jpg" width="100px"></td>
-        <td><a href="https://twitter.com/BLACKPINK">twitter</a></td>
+        <td>Lalisa Manobal</td>
+        <td>Lisa</td>
+        <td><img src="https://i.pinimg.com/originals/c5/0a/46/c50a46f12c99102d113ed344fa6390d0.jp" width="100px"></td>
+        <td><a href="https://www.instagram.com/lalalalisa_m/?hl=en">instragram</a></td>
         <tr>
         <td>2</td>
         <td>kim jennie</td>
